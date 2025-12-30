@@ -1,0 +1,4 @@
+on post-fs-data
+    mkdir /data/vendor/camera_rfi 0777 camera camera
+    write /data/vendor/camera_rfi/AfNeedNotifyRFI "0"
+    chmod 0666 /data/vendor/camera_rfi/AfNeedNotifyRFI
