@@ -1743,22 +1743,22 @@ PRODUCT_PACKAGES += \
     vendor.pixelworks.hardware.display@1.2 \
     vendor.pixelworks.hardware.feature@1.0 \
     vendor.pixelworks.hardware.feature@1.1 \
-    libCalculator_skel \
-    libQnnHtpV73 \
-    libQnnHtpV73Skel \
-    libQnnSaver \
-    libSnpeHtpV73Skel \
-    libSuperRawPost_skel \
-    libaisr_skel \
-    libarc_gk_pt_hvx_skel \
-    libarc_htp_driver_skel \
-    libcalculator_skel \
-    libhvxFaceBeautyPre_skel \
-    libktveffect \
-    libtfadsp_sb5_5_rx \
-    libtfadsp_sb5_5_tx \
-    libvdblurless_5.0.2_skel \
-    libvdsuperphoto_skel \
+    odm_lib_rfsa_adsp_libCalculator_skel_so \
+    odm_lib_rfsa_adsp_libQnnHtpV73_so \
+    odm_lib_rfsa_adsp_libQnnHtpV73Skel_so \
+    odm_lib_rfsa_adsp_libQnnSaver_so \
+    odm_lib_rfsa_adsp_libSnpeHtpV73Skel_so \
+    odm_lib_rfsa_adsp_libSuperRawPost_skel_so \
+    odm_lib_rfsa_adsp_libaisr_skel_so \
+    odm_lib_rfsa_adsp_libarc_gk_pt_hvx_skel_so \
+    odm_lib_rfsa_adsp_libarc_htp_driver_skel_so \
+    odm_lib_rfsa_adsp_libcalculator_skel_so \
+    odm_lib_rfsa_adsp_libhvxFaceBeautyPre_skel_so \
+    odm_lib_rfsa_adsp_libktveffect_so \
+    odm_lib_rfsa_adsp_libtfadsp_sb5_5_rx_so \
+    odm_lib_rfsa_adsp_libtfadsp_sb5_5_tx_so \
+    odm_lib_rfsa_adsp_libvdblurless_5_0_2_skel_so \
+    odm_lib_rfsa_adsp_libvdsuperphoto_skel_so \
     vendor.qti.camera.aon-impl.xml \
     vendor.qti.camera.offlinecamera-impl.xml \
     vendor.qti.camera.postproc-impl.xml \
